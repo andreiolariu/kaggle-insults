@@ -1,0 +1,12 @@
+run code from main.py
+
+for training, this uses train.csv and test_with_solutions.csv
+test data must be in test.csv
+results will be in rez.csv
+
+code needs python 2.7, scikit-learn 0.12 (along with numpy, scipy, ..),
+neurolab, nltk, maybe others :)
+
+4gb of ram are needed
+also, a fast cpu is recommended - ~30 minutes runtime on core i7
+
